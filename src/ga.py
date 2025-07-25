@@ -10,7 +10,7 @@ import math
 
 width = 200
 height = 16
-#test
+#New
 options = [
     "-",  # an empty space
     "X",  # a solid wall
